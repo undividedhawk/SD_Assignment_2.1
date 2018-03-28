@@ -14,3 +14,4 @@ BOOST_AUTO_TEST_CASE(board_is_empty_after_creation) {
 
 BOOST_AUTO_TEST_SUITE_END()
 
+
