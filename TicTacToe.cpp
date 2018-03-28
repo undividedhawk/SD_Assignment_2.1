@@ -26,3 +26,4 @@ void TicTacToe::printTurn(){
     else if (playerTurn == false)
         cout << "Computers move: " << endl;
 }
+

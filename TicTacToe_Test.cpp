@@ -20,3 +20,4 @@ BOOST_AUTO_TEST_CASE(the_game_starts_with_x_active_player) {
 }
 
 BOOST_AUTO_TEST_SUITE_END()
+
