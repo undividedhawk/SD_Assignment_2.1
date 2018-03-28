@@ -1,6 +1,3 @@
-//Brad Mueller
-//Abdul Samad
-
 #include "TicTacToe.h"
 #include <iostream>
 
